@@ -8,7 +8,7 @@ Addons related with Payment
 
 
 Addons
-----------------
+------
 nombre | version
 --- | ---
 [payment_ceca](payment_ceca/) | 12.0.1.0.0
